@@ -37,8 +37,8 @@ My Name is **Lucas**
           
           
           
-          
-          
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasGS6&show_icons=true&theme=dracula)](https://github.com/Lucasgs6/github-readme-stats)
+<img  alt="Lucas-Js" height="200" width="200" src= "https://i.pinimg.com/originals/66/36/d3/6636d37ba22a391c6353b1436a81f656.gif" />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGS6&layout=donut&theme=dracula)](https://github.com/LucasGS6/github-readme-stats)
-![](https://github-readme-streak-stats.herokuapp.com/?user=LucasGS6&theme=dracula&hide_border=false)</br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=LucasGS6&theme=dracula&hide_border=false)</br> 
+
