@@ -11,7 +11,7 @@
 
 **Estudando 💻:** Hoje em dia estudo Cyber Segurança e estou me aprofundando em Linux.
 
-**Projeto atual 🛠️:** Estou desenvolvendo um projeto pessoal de RPG de mesa (Repositorio:SCROLLD20) baseado em Javascript com estilização em HTML e CSS pretendo trazer um CRUD para criação de fichas de personagens interativa de acordo com o sistema desejado, pretendo trazer uma conexão com o Banco de dados Mongo DB para o projeto.
+**Projeto atual 🛠️:** Estou desenvolvendo um projeto pessoal de RPG de mesa (Repositorio:ROLLD20) baseado em Javascript com estilização em HTML e CSS pretendo trazer um CRUD para criação de fichas de personagens interativa de acordo com o sistema desejado, pretendo trazer uma conexão com o Banco de dados Mongo DB para o projeto.
 
 ##
 
@@ -21,7 +21,7 @@ My Name is **Lucas**
 
 **Studying 💻:** Nowadays, I’m studying Cybersecurity and diving deeper into Linux.
 
-**Current Project 🛠️:** I’m working on a personal tabletop RPG project (Repository: SCROLLD20) based on JavaScript with styling in HTML and CSS. I plan to create a CRUD system for interactive character sheet creation according to the desired system, and I also aim to integrate a MongoDB database connection into the project.
+**Current Project 🛠️:** I’m working on a personal tabletop RPG project (Repository: ROLLD20) based on JavaScript with styling in HTML and CSS. I plan to create a CRUD system for interactive character sheet creation according to the desired system, and I also aim to integrate a MongoDB database connection into the project.
 
 <div/>
 
