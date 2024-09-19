@@ -44,6 +44,7 @@ My Name is **Lucas**
 <img  alt="Lucas-Js" height="200" width="200" src= "https://i.pinimg.com/originals/66/36/d3/6636d37ba22a391c6353b1436a81f656.gif" />
 <img  alt="Lucas-Js" height="200" width="250" src= "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODJuNzU4cTlldWlua3JsbXlxYXloNzEzMTEyOHJjZ2Z2a21yMjM5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TIjX0XkAJoKy20jt6k/200.webp" />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGS6&layout=donut&theme=dracula)](https://github.com/LucasGS6/github-readme-stats)
-<img  alt="Lucas-Js" height="200" width="200" src= "https://i.giphy.com/l4FGrU1NtlIg9tjr2.webp" />
+<img  alt="Lucas-Js" height="200" width="200" src= "https://i.giphy.com/FCl3Cb8zUs7URBSNbk.webp" />
+<img  alt="Lucas-Js" height="200" width="200" src= "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnBnM2Jrb3k1eGpvMHYxaXE1dGxteTc5N28xeG84ZnlzMDV6bDdvayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pLHMEgLwAnlI4zvkyo/giphy.webp" />
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LucasGS6&theme=dracula&hide_border=false)</br> 
-
+<img  alt="Lucas-Js" height="200" width="200" src= "https://i.giphy.com/cnWbiXK2S0qP1znMI8.webp" />
