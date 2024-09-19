@@ -34,9 +34,12 @@ My Name is **Lucas**
 <img align="center" alt="Lucas-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" />
 <img align="center" alt="Lucas-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" />
 <img align="center" alt="Lucas-Js" height="40" width="40" src= "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/2048px-Kali-dragon-icon.svg.png" />
-          
-          
-          
+
+
+
+ 
+## Github status 💫
+        
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasGS6&show_icons=true&theme=dracula)](https://github.com/Lucasgs6/github-readme-stats)
 <img  alt="Lucas-Js" height="200" width="200" src= "https://i.pinimg.com/originals/66/36/d3/6636d37ba22a391c6353b1436a81f656.gif" />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGS6&layout=donut&theme=dracula)](https://github.com/LucasGS6/github-readme-stats)
