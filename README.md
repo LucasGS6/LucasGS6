@@ -42,7 +42,8 @@ My Name is **Lucas**
         
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasGS6&show_icons=true&theme=dracula)](https://github.com/Lucasgs6/github-readme-stats)
 <img  alt="Lucas-Js" height="200" width="200" src= "https://i.pinimg.com/originals/66/36/d3/6636d37ba22a391c6353b1436a81f656.gif" />
-<img  alt="Lucas-Js" height="200" width="140" src= "https://i.pinimg.com/originals/64/fc/f6/64fcf60af05934e3d0235a662d05808c.gif" />
+<img  alt="Lucas-Js" height="200" width="250" src= "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODJuNzU4cTlldWlua3JsbXlxYXloNzEzMTEyOHJjZ2Z2a21yMjM5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TIjX0XkAJoKy20jt6k/200.webp" />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGS6&layout=donut&theme=dracula)](https://github.com/LucasGS6/github-readme-stats)
+<img  alt="Lucas-Js" height="200" width="200" src= "https://i.giphy.com/l4FGrU1NtlIg9tjr2.webp" />
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LucasGS6&theme=dracula&hide_border=false)</br> 
 
