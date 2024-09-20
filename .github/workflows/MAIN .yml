@@ -52,3 +52,5 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+env: ${{ ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION=true}}
