@@ -35,11 +35,11 @@ My Name is **Lucas**
 <img align="center" alt="Lucas-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" />
 <img align="center" alt="Lucas-Js" height="40" width="40" src= "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/2048px-Kali-dragon-icon.svg.png" />
 
+##
 
 **Contribution Graph**
 
-<img align="center" alt="Dates" src="https://raw.githubusercontent.com/LucasGS6/LucasGS6/output/Date_M.jpeg">
-<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LucasGS6/LucasGS6/output/github-contribution-grid-snake-dark.svg">
+<img alt="github contribution grid snake animation" align="center" src="https://raw.githubusercontent.com/LucasGS6/LucasGS6/output/github-contribution-grid-snake-dark.svg">
  
 ## Github status 💫
         
