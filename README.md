@@ -38,7 +38,7 @@ My Name is **Lucas**
 
 **Contribution Graph**
 
-<img  alt="Dates" src="https://raw.githubusercontent.com/LucasGS6/LucasGS6/output/Date_M.jpeg">
+<img align="center" alt="Dates" src="https://raw.githubusercontent.com/LucasGS6/LucasGS6/output/Date_M.jpeg">
 <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LucasGS6/LucasGS6/output/github-contribution-grid-snake-dark.svg">
  
 ## Github status 💫
