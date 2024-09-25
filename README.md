@@ -47,7 +47,7 @@ My Name is **Lucas**
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGS6&layout=donut&theme=dracula)](https://github.com/LucasGS6/github-readme-stats)
 <img  alt="Lucas-Js" height="200" width="200" src= "https://i.giphy.com/FCl3Cb8zUs7URBSNbk.webp" />
 <img  alt="Lucas-Js" height="200" width="200" src= "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnBnM2Jrb3k1eGpvMHYxaXE1dGxteTc5N28xeG84ZnlzMDV6bDdvayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pLHMEgLwAnlI4zvkyo/giphy.webp" />
-
+![](https://github-readme-streak-stats.herokuapp.com/?user=LucasGS6&theme=dracula&border=false)</br>
 
 ## 𓂀
 
